@@ -1,5 +1,3 @@
-//Marcell Kisjuhász 2020.03.
-
 #include <ESP8266WiFi.h>
 #include <espnow.h>
 #include <user_interface.h>
