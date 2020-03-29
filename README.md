@@ -1,6 +1,6 @@
 # ESP8266-WiFi-and-ESP-NOW-example
 
-ESP8266: Using ESP-NOW and WiFi connection together
+## ESP8266: Using ESP-NOW and WiFi connection together
 The goal of this example is to show how can you configure an ESP8266 as a gateway between an ESP-NOW network and the internet. I only tested it on ESP8266 with one node, but I wouldn’t be surprised if it would work like quite a similar way on ESP32. 
  
 
